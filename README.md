@@ -1,4 +1,4 @@
-📊 Text Sentiment Classification using Deep Learning (RNN, LSTM, GRU)
+# 📊 Text Sentiment Classification using Deep Learning (RNN, LSTM, GRU)
 📌 Overview
 
 This project implements deep learning models for sentiment analysis on text data using:
